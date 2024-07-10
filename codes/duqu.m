@@ -1,0 +1,10 @@
+% data1=importdata('data1.txt');
+% data2=importdata('data2.txt');
+% data3=importdata('data3.txt');
+% data4=importdata('data4.txt');
+% data5=importdata('data5.txt');
+% data6=importdata('data6.txt');
+data1=importdata('data1.txt');
+% data8=importdata('data8.txt');
+% data9=importdata('data9.txt');
+% data10=importdata('data10.txt');
